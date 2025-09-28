@@ -1,0 +1,26 @@
+country_id,country_name,region
+AR,Argentina,South America
+AU,Australia,Oceania
+BE,Belgium,Western Europe
+BR,Brazil,South America
+CA,Canada,North America
+CH,Switzerland,Western Europe
+CN,China,Eastern Asia
+DE,Germany,Western Europe
+DK,Denmark,Northern Europe
+EG,Egypt,Northern Africa
+FR,France,Western Europe
+HK,HongKong,Eastern Asia
+IL,Israel,Western Asia
+IN,India,Southern Asia
+IT,Italy,Southern Europe
+JP,Japan,Eastern Asia
+KW,Kuwait,Western Asia
+MX,Mexico,North America
+NG,Nigeria,Western Africa
+NL,Netherlands,Western Europe
+SG,Singapore,South-Eastern Asia
+UK,United Kingdom,Northern Europe
+US,United States of America,North America
+ZM,Zambia,Eastern Africa
+ZW,Zimbabwe,Eastern Africa
